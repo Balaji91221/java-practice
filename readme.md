@@ -3,7 +3,7 @@
 
 Completed multiple Java courses.
 Covered essential concepts and topics.
-Worked on projects and assignments.
+
 ## Object-Oriented Programming (OOP) Concepts:
 
 Explored fundamental OOP principles.
