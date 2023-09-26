@@ -14,7 +14,3 @@ Crucial for designing robust Java code.
 Engaged in STS3006 (specific course/module).
 Focused on objectives, content, and learning outcomes.
 Involved practical exercises, projects, and assessments.
-## LeetCode Problems:
-
-Actively solved LeetCode coding challenges.
-Practiced data structures and algorithms.
